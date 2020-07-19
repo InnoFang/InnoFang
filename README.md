@@ -6,6 +6,5 @@
 
 A programming enthusiast, and now focus on `Knowledge Graph`.
 
-- 📖 My Blog: [innofang.github.io](https://innofang.github.io)
 - 📫 How to reach me: <innofang@outlook.com>
 - ⚡ Fun fact: Trying to be creative
