@@ -8,7 +8,3 @@ A programming enthusiast, and now focus on `Knowledge Graph`.
 
 - 📫 How to reach me: <innofang@outlook.com>
 - ⚡ Fun fact: Trying to be creative
-
-<p align="center">
-    <a href="https://github.com/InnoFang/InnoFang"><img src="https://badges.pufler.dev/visits/innofang/innofang"></a>
-</p>
