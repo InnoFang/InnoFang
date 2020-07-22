@@ -4,8 +4,6 @@
 
 ### Hi, it's Inno 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/innofang/innofang)](https://badges.innofang.dev)
-
 A programming enthusiast, and now focus on `Knowledge Graph`.
 
 - 📫 How to reach me: <innofang@outlook.com>
