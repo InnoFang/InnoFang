@@ -10,5 +10,5 @@ A programming enthusiast, and now focus on `Knowledge Graph`.
 - ⚡ Fun fact: Trying to be creative
 
 <a href="https://github.com/InnoFang/InnoFang">
-    <img align="right" src="https://badges.pufler.dev/visits/innofang/innofang">
+    <img align="right" src="https://visitor-badge.laobi.icu//badge?page_id=innofang.github.io">
 </a>   
