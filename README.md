@@ -4,8 +4,6 @@
 
 ### Hi, it's Inno 👋
 
-A programming enthusiast, and now focus on `Knowledge Graph`.
-
 - 📫 How to reach me: <innofang@outlook.com>
 - ⚡ Fun fact: Trying to be creative
 
