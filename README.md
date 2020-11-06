@@ -1,8 +1,8 @@
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innofang&layout=compact&langs_count=8&exclude_repo=innofang.github.io" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innofang&hide_border=true&layout=compact&langs_count=8&exclude_repo=innofang.github.io" />
 </a>
 <a>
-  <img align="center" src='https://github-readme-stats.vercel.app/api?username=InnoFang&show_icons=true&theme=flag-india&hide_border=true&hide=contribs&count_private=true'>
+  <img align="right" src='https://github-readme-stats.vercel.app/api?username=InnoFang&show_icons=true&theme=flag-india&hide_border=true&hide=contribs&count_private=true'>
 </a>
 
 <!--
