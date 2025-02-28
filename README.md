@@ -1,6 +1,6 @@
 <div align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innofang&langs_count=8&hide=html,css&exclude_repo=InnoFang.github.io&layout=compact&hide_border=true" />
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=InnoFang&show_icons=true&theme=flag-india&hide_border=true&count_private=true&hide=contribs" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innofang&langs_count=8&hide=html,css&exclude_repo=InnoFang.github.io&layout=compact&hide_border=true&theme=gruvbox" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=InnoFang&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=ambient_gradient&rank_icon=percentile" />
 </div>
 <!--
 <a href="#">
