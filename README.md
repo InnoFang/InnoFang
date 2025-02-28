@@ -1,5 +1,5 @@
 <div align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innofang&hide=jupyter%20notebook&hide_border=true&layout=compact&langs_count=8&exclude_repo=InnoFang.github.io&langs_count=10" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innofang&langs_count=8&hide=html,css&exclude_repo=InnoFang.github.io&layout=compact&hide_border=true" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=InnoFang&show_icons=true&theme=flag-india&hide_border=true&count_private=true&hide=contribs" />
 </div>
 <!--
